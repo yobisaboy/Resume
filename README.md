@@ -11,7 +11,7 @@ Yoyo Ho - Game Developer
 This is Yoyo from Hong Kong. I graduated from Centennial College with a three-year Advanced Diploma in Game Programming. Also, I hold a bachelor's degree in Economics, with a focus on China, the US, and international economies. For my past work experience, I held a leadership role at an online service-matching company and a healthcare agency platform. In the workplace, I am a skilled problem-solver and a fast learner who is responsible and organized.
 
 ## Summary of Qualification
-- Advanced Diploma in Game Programming from Centennial College, Toronto
+- Advanced Diploma in Game Programming from Centennial College, Toronto, Canada
 - Bachelor’s Degree in China Studies (Economics) from Hong Kong Baptist University, Hong Kong
 ### Fast Learner
 My transition from Economics to Game Programming demonstrates that I am capable of quickly acquiring new knowledge. Additionally, my experience working in start-up companies required me to manage different parts of team operations without guidance. This meant I had to independently search for resources to accomplish my tasks. In the fast-changing IT industry, I believe this adaptability is an essential skill for success.
