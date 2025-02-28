@@ -20,3 +20,9 @@ While working at a healthcare agency, I was responsible for building the entire 
 ### Skilled at Problem-Solving
 During my studies, I consistently performed well in mathematics and programming, showcasing my strong problem-solving abilities. As a customer service team leader in my past work experience, I was always the last resort for handling complaints. This experience strengthened my problem-solving skills and ability to manage difficult situations effectively.
 
+## List of Work
+- Harmony Heors (2025)
+- Tim Hortons Simulation (2025)
+- Krash Kart (2024)
+- Grim Reaper (2023)
+
