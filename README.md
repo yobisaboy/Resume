@@ -1,5 +1,5 @@
-# Resume
-Yoyo Ho - Game Developer
+# Yoyo Ho
+Game Developer
 
 ## Contact
 - Tel: +1 (647) 637-0831
