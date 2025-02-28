@@ -13,10 +13,10 @@ This is Yoyo from Hong Kong. I graduated from Centennial College with a three-ye
 ## Summary of Qualification
 - Advanced Diploma in Game Programming from Centennial College, Toronto
 - Bachelor’s Degree in China Studies (Economics) from Hong Kong Baptist University, Hong Kong
-- Fast Learner
+### Fast Learner
 My transition from Economics to Game Programming demonstrates that I am capable of quickly acquiring new knowledge. Additionally, my experience working in start-up companies required me to manage different parts of team operations without guidance. This meant I had to independently search for resources to accomplish my tasks. In the fast-changing IT industry, I believe this adaptability is an essential skill for success.
-- Responsible & Organized
+### Responsible & Organized
 While working at a healthcare agency, I was responsible for building the entire workflow system for service matching from scratch and establishing a new team. This demonstrates my ability to plan, organize, and allocate resources efficiently. In school, I participated in lots of group projects, where I took the lead in coordinating teammates and managing deadlines, highlighting my time management, responsibility, and communication skills.
-- Skilled at Problem-Solving
+### Skilled at Problem-Solving
 During my studies, I consistently performed well in mathematics and programming, showcasing my strong problem-solving abilities. As a customer service team leader in my past work experience, I was always the last resort for handling complaints. This experience strengthened my problem-solving skills and ability to manage difficult situations effectively.
 
