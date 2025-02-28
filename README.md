@@ -25,4 +25,6 @@ During my studies, I consistently performed well in mathematics and programming,
 - Tim Hortons Simulation (2025)
 - Krash Kart (2024)
 - Grim Reaper (2023)
+- Cotton Candy (2022)
+- Hot Dog Planet (2022)
 
