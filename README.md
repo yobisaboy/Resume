@@ -21,7 +21,7 @@ While working at a healthcare agency, I was responsible for building the entire 
 During my studies, I consistently performed well in mathematics and programming, showcasing my strong problem-solving abilities. As a customer service team leader in my past work experience, I was always the last resort for handling complaints. This experience strengthened my problem-solving skills and ability to manage difficult situations effectively.
 
 ## List of Work
-- Harmony Heors (2025): TBA
+- Harmony Heros (2025): TBA
 - Tim Hortons Simulation (2025): https://yobisaboy.itch.io/tim-hortons-simulation
 - Krash Kart (2024): https://yobisaboy.itch.io/krash-kart
 - Grim Reaper (2024): https://yobisaboy.itch.io/grim-reaper-pc
