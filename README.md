@@ -1,6 +1,5 @@
 # Yoyo Ho
-- Game Developer
-  
+## Game Developer
 <br> 
   <img src="./yobisaboyLogo.png" alt="yobisaboy Logo" height="150">
   <img src="./ChomperStudiosLogo.png" alt="Chomper Studios Logo" height="150">
