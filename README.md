@@ -1,7 +1,12 @@
 # Yoyo Ho
-- Game Developer
+Game Developer
+<div>
   <img src="./yobisaboyLogo.png" alt="yobisaboy Logo" width="150">
-  <img src="./ChomperStudiosLogo.png" alt="/Chomper Studios Logo" height="150">
+</div>  
+
+<div>
+  <img src="./ChomperStudiosLogo.png" alt="Chomper Studios Logo" height="150">
+</div> 
 ## Contact
 - Tel: +1 (647) 637-0831
 - Email: hoyiuyiuyoyo@gmail.com
