@@ -1,5 +1,6 @@
 # Yoyo Ho
 Game Developer
+![yobisaboy Logo](./yobisaboyLogo.png)
 
 ## Contact
 - Tel: +1 (647) 637-0831
