@@ -16,12 +16,13 @@ import Home from './components/Profile.jsx';
 import Games from './components/Games.jsx';
 
 import logo from './assets/logo.png';
+import './App.css'; 
 
 function App() {
 
   return (
     <Router>
-      <Navbar bg="bright" variant="bright" expand="lg" fixed="top" className="w-100">
+      <Navbar bg="bright" variant="bright" expand="lg" fixed="top" className="nav-bar">
  
         <Container>
           <Navbar.Brand href="/" className="logo-container">
@@ -44,7 +45,7 @@ function App() {
 
 
 
-      <div style={{ marginTop: '90px' }} >
+      <div className="page-container">
         <Routes>
           <Route index element={<Home />} />
           <Route path="home" element={<Home />} />
