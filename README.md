@@ -5,7 +5,7 @@
 - Tel: +1 (647) 637-0831
 - Email: hoyiuyiuyoyo@gmail.com
 - LinkedIn: https://www.linkedin.com/in/yoyoho
-- GitHub: https://github.com/yobisaboy
+- Portfolio: https://yobisaboy.github.io/Portfolio
 
 ## Personal Profile
 This is Yoyo. I graduated from Centennial College with a three-year Advanced Diploma in Game Programming. Also, I hold a bachelor's degree in Economics, with a focus on China, the US, and international economies. For my past work experience, I held a leadership role at an online service-matching company and a healthcare agency platform. In the workplace, I am a skilled problem-solver and a fast learner who is responsible and organized.
@@ -21,12 +21,12 @@ While working at a healthcare agency, I was responsible for building the entire 
 During my studies, I consistently performed well in mathematics and programming, showcasing my strong problem-solving abilities. As a customer service team leader in my past work experience, I was always the last resort for handling complaints. This experience strengthened my problem-solving skills and ability to manage difficult situations effectively.
 
 ## List of Work
-- Coffee Guru (2025): https://yobisaboy.itch.io/la-la-latte-coffee-guru
-- Harmony Heros (2025): https://yobisaboy.itch.io/harmony-heroes
-- Tim Hortons Simulation (2025): https://yobisaboy.itch.io/tim-hortons-simulation
-- Krash Kart (2024): https://yobisaboy.itch.io/krash-kart
-- Grim Reaper (2024): https://yobisaboy.itch.io/grim-reaper-pc
-- Cotton Candy (2023): https://yobisaboy.itch.io/cotton-candy
-- Brave Fox (2023): https://yobisaboy.itch.io/brave-fox
-- Hot Dog Planet (2022): https://yobisaboy.itch.io/hot-dog-planet
+- Coffee Guru (2025)
+- Harmony Heros (2025)
+- Tim Hortons Simulation (2025)
+- Krash Kart (2024)
+- Grim Reaper (2024)
+- Cotton Candy (2023)
+- Brave Fox (2023)
+- Hot Dog Planet (2022)
 
